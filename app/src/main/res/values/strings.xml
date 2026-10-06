@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">الساعة</string>
+    <string name="tab_clock">الساعة</string>
+    <string name="tab_world">العالم</string>
+    <string name="tab_stopwatch">ساعة إيقاف</string>
+    <string name="tab_timer">المؤقت</string>
+    <string name="night_mode">وضع الشاشة الليلية</string>
+    <string name="exit_night_mode">الرجوع</string>
+    <string name="digital_view">رقمية</string>
+    <string name="analog_view">عقارب</string>
+    <string name="start">بدء</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="resume">استئناف</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="lap">دورة</string>
+    <string name="time_is_up">انتهى الوقت!</string>
+</resources>
